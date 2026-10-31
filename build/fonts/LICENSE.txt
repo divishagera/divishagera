@@ -1,0 +1,2 @@
+Instrument Serif, Archivo and IBM Plex Mono are licensed under the SIL Open Font License 1.1 (https://openfontlicense.org).
+Files taken from the @fontsource npm packages (latin subset). build.py embeds per-plate subsets into the SVGs.

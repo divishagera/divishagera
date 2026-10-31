@@ -1,0 +1,14 @@
+{
+  "_note": "Repositories shown in the Field log. 'pushed' is refreshed by the daily workflow for public repos; private ones keep the date written here.",
+  "repos": [
+    {"name": "nse-market-data-downloader", "owner": "divishagera", "role": "Owner", "pushed": "2026-10-30", "public": true},
+    {"name": "divishagera", "owner": "divishagera", "role": "Owner", "pushed": "2026-10-21", "public": true},
+    {"name": "ml_lab", "owner": "ahadullabaig", "role": "Collaborator", "pushed": "2026-06-11", "public": true},
+    {"name": "Radcloud", "owner": "Ryan-gomezzz", "role": "Collaborator", "pushed": "2026-04-01", "public": true},
+    {"name": "hackawar_website", "owner": "ahadullabaig", "role": "Collaborator", "pushed": "2026-03-30", "public": true},
+    {"name": "GearGuard", "owner": "ahadullabaig", "role": "Collaborator", "pushed": "2025-12-27", "public": true},
+    {"name": "CortexCore", "owner": "ahadullabaig", "role": "Collaborator", "pushed": "2025-12-26", "public": false},
+    {"name": "Sayonara", "owner": "divishagera", "role": "Team", "pushed": "2025-09-16", "public": true},
+    {"name": "ieee-ritb-suite", "owner": "divishagera", "role": "Fork", "pushed": "2025-05-16", "public": true}
+  ]
+}
